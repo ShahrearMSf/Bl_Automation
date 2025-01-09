@@ -25,7 +25,7 @@
     <img src="https://playwright.dev/img/playwright-logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">NotificationX End-To-End Test Automation</h3>
+  <h3 align="center">BetterLinks End-To-End Test Automation</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -77,7 +77,7 @@
   </a>
 </div>
 
-NotificationX is a popular WordPress plugin with thousands of users worldwide. This project creates e2e automation scripts for NotificationX FREE & PRO plugins.
+BetterLinks – An Advanced Solution for Affiliate Link Management, Link Shortening, Link Tracking, Link Branding & Marketing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
