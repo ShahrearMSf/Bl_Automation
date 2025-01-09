@@ -77,7 +77,7 @@
   </a>
 </div>
 
-BetterDocs is a popular WordPress plugin with thousands of users worldwide. This project creates e2e automation scripts for BetterDocs FREE & PRO plugins.
+NotificationX is a popular WordPress plugin with thousands of users worldwide. This project creates e2e automation scripts for NotificationX FREE & PRO plugins.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,11 +149,10 @@ _For more examples, please refer to the [Documentation](https://playwright.dev)_
 ## Roadmap
 
 - [x] Begin Project
-- [x] All shortcodes
-- [ ] All gutenberg blocks
-- [ ] All elementor widgets
-    - [ ] BetterDocs Category Grid
-    - [ ] BetterDocs Category Box
+- [x] All Free Notification
+- [ ] All themes
+- [ ] All shortcodes
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
